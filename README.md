@@ -1,1 +1,1 @@
-Logistic Regression model: utilized  AUC ROC curve, Grid Search, Select KBest 
+Logistic Regression model: utilized  AUC ROC Curve, GridSearchCV, Select KBest, Confusion Matrix
